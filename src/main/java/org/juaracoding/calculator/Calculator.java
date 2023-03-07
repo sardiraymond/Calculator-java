@@ -50,7 +50,7 @@ public class Calculator {
     private MobileElement hasil;
 
 
-    //Method
+    //Method testa
     public void calcAdd() {
         btnSatu.click();
         btnTambah.click();
